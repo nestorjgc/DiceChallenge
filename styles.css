@@ -4,6 +4,21 @@
   text-align: center;
 }
 
+.playButton{
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+  background: none;
+    border: none;
+} 
+
+.playButton:hover{
+
+  cursor: pointer;
+
+} 
+
 .dice {
   text-align: center;
   display: inline-block;
