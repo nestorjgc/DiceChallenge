@@ -1,5 +1,4 @@
 # DiceChallenge
-# Musem-of-Candy
 
 <h2>Single page project with future potential.</h2>
 
