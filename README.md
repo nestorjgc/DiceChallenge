@@ -1,6 +1,6 @@
 # DiceChallenge
 
-<h2>Single page project with future potential.</h2>
+<h2>Single page game with future potential for better animations using JavaScript</h2>
 
 <p>Built during 2021 just for fun and to improve designing skills.</p>
 
